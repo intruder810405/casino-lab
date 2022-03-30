@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '카지노컴퍼니'
+copyright = 'https://projectfluent.io/'
+author = '카지노컴퍼니'
 
 release = '0.1'
 version = '0.1.0'
@@ -20,8 +20,8 @@ extensions = [
 ]
 
 intersphinx_mapping = {
-    'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
+    '카지노': ('https://projectfluent.io/', None),
+    '카지노사이트': ('https://projectfluent.io/', None),
 }
 intersphinx_disabled_domains = ['std']
 
