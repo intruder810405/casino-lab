@@ -23,14 +23,14 @@
 그러므로, 카지노는 단순한 게임을 제공하는 장소에서 벗어나 공연, 흥미, 쾌락 등 
 다양한 여가활동을 즐길 수 있는 관광 산업의 체제로 변신되었다. 
 
-[바카라사이트](https://projectfluent.io/)
+ `카지노사이트 <https://projectfluent.io/>`_
 
 이와 같이 현대의 카지노 산업은 관광객의 게임욕구뿐만 아니라 
 다양한 여가·레저욕구도 만족 시킬 수 있는 유 무형의 서비스를 제공하는 산업체로 
 정의될 수 있다. 
 
 
-   This project is under active [바카라사이트](https://projectfluent.io/) development.
+   This project is under active `바카라사이트 <https://projectfluent.io/>`_ development.
 
 Contents
 --------
